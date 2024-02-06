@@ -36,7 +36,6 @@ I’m a seasoned software engineer specializing in crafting beautiful and perfor
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="AI" src="https://img.shields.io/badge/AI-02569B.svg?&style=for-the-badge&logoColor=white"></a>
 
 </p>
 
