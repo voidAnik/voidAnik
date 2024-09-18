@@ -10,7 +10,7 @@ I’m a seasoned software engineer specializing in crafting beautiful and perfor
 
 ### What I'm up to:
 - 🔭 I’m currently working on **advanced mobile application projects**.
-- 🌱 I’m currently learning **more about reactive programming and state management in Flutter**.
+- 🌱 I’m currently learning **more about reactive programming and Software architecture & Design Patterns**.
 - 👯 I’m looking to collaborate on **innovative mobile app projects**.
 - 🤔 I’m looking for help with **exploring new trends in mobile development**.
 - 💬 Ask me about **Android, iOS, Flutter development, software architecture, and agile methodologies**.
